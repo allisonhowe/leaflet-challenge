@@ -1,0 +1,22 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+}
+
+.square {
+  width: 15px;
+  height: 15px;
+  margin-right: 5px;
+}
+
+.legend {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+}
